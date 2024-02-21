@@ -4,3 +4,4 @@
 
 input : es para resivir texto
 type: (investigar)
+font-size: 
