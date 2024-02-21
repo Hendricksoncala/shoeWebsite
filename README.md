@@ -40,4 +40,4 @@ esteblece el comportamiento de visualizacion de un elemento html, renderiza el e
 footer: es un tipo o estilo de dise;o flexible 
 y para este podemos usar flex
 
-nav= en html
+nav= en html es una etiqueta para definir una seccion de navegacion en una pagina web
