@@ -22,3 +22,19 @@ nav .container {
     padding: 1em 2em;
     margin: 0 auto;
 }
+nav .container > div {
+    display: grid;
+    grid-template-columns: 1fr 6fr;
+    align-items: center;
+}
+nav .menu,
+nav form,
+.footer
+.footer .watch {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+/* nav ul{
+    list-style-type: none:
+} */
